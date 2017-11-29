@@ -50,7 +50,6 @@
 //= require jquery-ui/widgets/selectable
 //= require jquery-ui/widgets/selectmenu
 //= require jquery-ui/widgets/slider
-//= require jquery-ui/widgets/sortable
 //= require jquery-ui/widgets/spinner
 //= require jquery-ui/widgets/tabs
 //= require jquery-ui/widgets/tooltip
